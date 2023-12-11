@@ -2,7 +2,7 @@
 const colecaoImg = [
   {
     id: 1,
-    img: "Conteudo/dog B.jpg",
+    img: "Conteudo/dayson.jpg",
   },
 
   {
